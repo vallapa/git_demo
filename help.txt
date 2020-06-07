@@ -1,4 +1,8 @@
 rrr
 aaa
+<<<<<<< HEAD
 bbbbb
 77777
+=======
+bbbgit
+>>>>>>> 2b76ec8e16b9f6159bd0f1979bd49c1beb12a3cd
